@@ -1,86 +1,338 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"></urlset>
-  <url>    <loc>https://dev.spbpu.com/news/g-vasilyanov-provel-zanyatie-po-postroeniyu-sistem-upravleniya-avtonomnym-transportom-v-ramkah-intensiva-inzhenernaya-liga/</loc>    <lastmod>2021-01-14T11:15:50Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/v-osennem-semestre-2020-goda-kurs-operaczionnye-sistemy-realnogo-vremeni-dlya-studentov-iknt-spbpu-provedut-sotrudniki-laboratorii-pspod/</loc>    <lastmod>2020-11-05T14:53:26Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/nikolaj-abramov-i-yaroslav-hutornoj-rasskazali-o-svoih-razrabotkah-na-huawei-spbpu-open-day-2020/</loc>    <lastmod>2020-11-02T09:18:00Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/na-konferenczii-iefb-ran-predstavlena-tehnologiya-analiza-patternov-mozgovoj-aktivnosti-laboratornyh-myshej-dlya-issledovanij-v-oblasti-nejrodegenerativnyh-zabolevanij/</loc>    <lastmod>2020-11-05T11:48:57Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/v-czentre-nti-spbpu-proshla-rabochaya-sessiya-s-rukovoditelyami-developera-brusnika-po-razrabotke-metodiki-i-po-dlya-avtomatizaczii-proektirovaniya-zhilyh-mnogokvartirnyh-domov/</loc>    <lastmod>2020-11-05T11:48:04Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/a-i-borovkov-i-m-v-bolsunovskaya-vystupili-pered-slushatelyami-programmy-ranhigs-advanced-management/</loc>    <lastmod>2020-11-02T12:19:49Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/sotrudniki-laboratorii-pspod-prinyali-uchastie-v-mezhdunarodnom-forume-dni-virusologii-virology-days-2020/</loc>    <lastmod>2020-11-02T12:41:09Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/sotrudniki-laboratorii-pspod-czentra-nti-spbpu-proshli-v-final-konkursa-tematicheskih-obrazovatelnyh-programm-arteka-na-2021-god/</loc>    <lastmod>2020-11-05T14:37:55Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/speczialisty-laboratorii-pspod-prinimayut-uchastie-v-razrabotke-onlajn-kursov-spbpu-po-formirovaniyu-czifrovyh-kompetenczij-inzhenernyh-kadrov/</loc>    <lastmod>2020-09-21T14:50:59Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/razrabotki-laboratorii-dlya-stroitelnoj-otrasli-predstavleny-na-interstrojekspo-2020/</loc>    <lastmod>2020-09-14T12:22:14Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/kibernetika-kak-supersila-intervyu-s-m-v-bolsunovskoj/</loc>    <lastmod>2020-09-07T09:16:06Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/rosatom-ekonomfak-mgu-spbpu-i-buildingsmart-naiks-dogovorilis-o-sotrudnichestve-v-oblasti-podgotovki-inzhenernyh-kadrov-dlya-czifrovoj-ekonomiki/</loc>    <lastmod>2020-09-07T10:23:13Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/menedzher-proektov-laboratorii-pspod-aleksej-ginczyak-voshel-v-sostav-soveta-molodyh-uchenyh-spbpu/</loc>    <lastmod>2020-08-07T13:06:08Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/slushateli-letnej-shkoly-spbpu-izuchili-primenenie-sistem-ii-na-primere-modeli-bespilotnogo-avtomobilya/</loc>    <lastmod>2020-07-22T14:22:39Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/sotrudniki-laboratorii-pspod-prinyali-uchastie-v-sovmestnom-vorkshope-spbpu-i-universiteta-aahena-smart-robotics-in-production/</loc>    <lastmod>2020-06-25T09:45:27Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/sistema-besprovodnyh-infrakrasnyh-datchikov-dlya-dolgovremennogo-monitoringa-konczentraczii-gazov/</loc>    <lastmod>2020-06-25T09:42:33Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/proekt-po-razrabotke-sistemy-datchikov-monitoringa-gazov-predstavlen-na-konferenczii-ipmeit-spbpu/</loc>    <lastmod>2020-06-17T10:23:50Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/mobilnoe-prilozhenie-dlya-seti-invest-otelej-na-osnove-tehnologii-flutter/</loc>    <lastmod>2020-06-11T15:29:01Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/proekt-po-sozdaniyu-golosovogo-pomoshhnika-dlya-paczientov-pni-predstavlen-na-konferenczii-sesekmi-2020/</loc>    <lastmod>2020-05-25T10:30:15Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/the-issdp-laboratory-of-the-nti-spbpu-center-is-completing-the-2nd-stage-of-the-development-of-a-small-sized-training-and-demonstration-model-of-an-unmanned-vehicle/</loc>    <lastmod>2020-05-14T18:20:43Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/laboratoriya-pspod-czentra-nti-spbpu-zavershaet-2-etap-razrabotki-malogabaritnoj-uchebno-demonstraczionnoj-modeli-bespilotnogo-avtomobilya/</loc>    <lastmod>2020-05-08T18:42:55Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/laboratoriya-pspod-czentra-nti-spbpu-predstavila-svoi-razrabotki-na-mmso-2020/</loc>    <lastmod>2020-11-06T12:13:06Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/rol-czifrovyh-dvojnikov-v-realizaczii-proekta-czifrovoj-ob-irtyshskij-bassejn-obsudili-na-soveshhanii-s-rukovodstvom-rosgidrometa/</loc>    <lastmod>2020-05-07T13:34:14Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/laboratoriya-promyshlennye-sistemy-potokovoj-obrabotki-dannyh-pspod-czentra-nti-spbpu-primet-uchastie-v-mmso-2020/</loc>    <lastmod>2020-05-07T13:34:32Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/onlajn-vstrecha-s-predstavitelyami-rwth-aachen-university/</loc>    <lastmod>2020-04-17T13:56:22Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/v-ramkah-programmy-norma-zhizni-uchastniki-iz-sankt-peterburga-predstavili-proekty-po-vnedreniyu-innovaczionnyh-praktik-v-rabotu-soczialnyh-i-mediczinskih-organizaczij/</loc>    <lastmod>2020-03-25T13:24:42Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/ministerstvo-inostrannyh-del-rossijskoj-federaczii-podderzhalo-inicziativu-czentra-nti-spbpu-po-razvitiyu-sotrudnichestva-so-stranami-afriki/</loc>    <lastmod>2020-03-25T09:33:43Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/sotrudniki-laboratorii-pspod-predstavili-konczepcziyu-ispolzovaniya-it-tehnologij-v-reabilitaczionnyh-programmah-psihonevrologicheskih-internatov/</loc>    <lastmod>2020-03-25T09:55:06Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/russian-finnish-industry-4-0-educational-project-supported-by-a-cross-border-cooperation-program/</loc>    <lastmod>2020-02-25T11:37:48Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/rossijsko-finskij-obrazovatelnyj-proekt-v-sfere-industrii-4-0-podderzhan-programmoj-prigranichnogo-sotrudnichestva/</loc>    <lastmod>2020-07-17T16:02:18Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/m-v-bolsunovskaya-vystupila-na-xvi-baltijskom-nauchno-inzhenernom-konkurse-s-lekcziej-o-razrabotke-sistem-iskusstvennogo-intellekta/</loc>    <lastmod>2020-02-11T12:49:00Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/uchenye-spbpu-razrabotali-otkrytuyu-platformu-dlya-sozdaniya-nejrotrenazherov-i-nejrointerfejsov/</loc>    <lastmod>2020-09-29T13:55:06Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/an-open-platform-for-creating-neurotracers-and-neural-interfaces/</loc>    <lastmod>2020-02-13T11:54:52Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/gid-po-novym-professiyam-czifrovogo-mira/</loc>    <lastmod>2020-02-05T11:06:11Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/v-komande-laboratorii-pspod-eshhe-dva-pobeditelya-programmy-umnik-pozdravlyaem-kolleg/</loc>    <lastmod>2020-02-05T11:22:19Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/the-issdp-laboratory-team-has-in-its-staff-two-more-winners-of-the-umnik-program-congratulations-to-our-colleagues/</loc>    <lastmod>2020-02-05T11:27:40Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/international-conference-on-information-science-and-applications-2019-icisa-2019/</loc>    <lastmod>2020-01-13T11:23:46Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/international-conference-on-information-science-and-applications-2019-icisa-2019-2/</loc>    <lastmod>2020-02-04T09:49:45Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/proekt-laboratorii-pspod-predstavlen-na-vystavke-v-ramkah-foruma-globalnoe-tehnologicheskoe-liderstvo-2019/</loc>    <lastmod>2020-01-13T11:24:42Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/the-issdp-laboratory-project-was-presented-at-the-exhibition-as-part-of-the-global-technology-leadership-forum-2019/</loc>    <lastmod>2020-02-04T10:02:15Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/proekt-czifrovoj-ob-irtyshskij-bassejn-poluchil-vysokuyu-oczenku-ot-ekspertov-federalnogo-urovnya-na-forume-globalnoe-tehnologicheskoe-liderstvo/</loc>    <lastmod>2019-12-28T12:14:02Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/the-digital-ob-irtysh-basin-project-received-a-high-appraisal-of-federal-experts-at-the-global-technology-leadership-forum/</loc>    <lastmod>2020-02-04T10:56:57Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/sotrudniki-czentra-nti-spbpu-i-vshtp-ippt-rasskazali-o-proekte-oblachnyj-kvest-dlya-pervokursnikov-na-konferenczii-secr-2019/</loc>    <lastmod>2019-12-06T14:45:52Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/pozdravlyaem-pobeditelya-konkursa-umnik-sberbank-arseniya-zorina-3/</loc>    <lastmod>2020-01-13T11:22:40Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/congratulations-to-the-winner-of-the-umnik-sberbank-contest-arseny-zorin/</loc>    <lastmod>2020-02-06T10:58:36Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/laboratoriya-pspod-vklyuchena-v-proekt-po-sozdaniyu-czifrovoj-platformy-i-vnedreniyu-peredovyh-tehnologij-na-ao-pticzefabrika-roskar/</loc>    <lastmod>2019-12-25T13:35:49Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/the-issdp-laboratory-is-included-in-the-project-on-creating-a-digital-platform-and-introduction-of-advanced-technologies-at-the-roskar-poultry-factory/</loc>    <lastmod>2020-02-04T10:08:57Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/marina-bolsunovskaya-na-radio-eho-moskvy-o-lazernom-skanirovanii-i-czifrovyh-dvojnikah/</loc>    <lastmod>2019-11-22T15:53:13Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/czentr-nti-spbpu-i-gup-lenoblinventarizacziya-podpisali-soglashenie-o-sotrudnichestve-po-voprosam-razvitiya-czifrovoj-transformaczii-i-novyh-proizvodstvennyh-tehnologij/</loc>    <lastmod>2019-11-22T13:32:38Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/speczialisty-czentra-nti-spbpu-prinyali-uchastie-v-ekonomicheskom-forume-rossiya-afrika/</loc>    <lastmod>2020-02-10T10:47:11Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/laboratory-specialists-took-part-in-the-russia-africa-economic-forum/</loc>    <lastmod>2020-02-04T09:42:06Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/ii-sammit-dlya-molodyh-uchenyh-i-inzhenerov-bolshie-vyzovy-dlya-obshhestva-gosudarstva-i-nauki/</loc>    <lastmod>2019-11-22T16:12:13Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/en/news/the-joint-projects-of-the-pspod-laboratory-and-plaza-lotus-group-were-presented-at-the-meeting-it-solutions-for-development-or-technology-investments/</loc>    <lastmod>2020-01-28T14:01:32Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/sovmestnye-proekty-laboratorii-pspod-i-plaza-lotus-group-predstavleny-na-vstreche-it-resheniya-dlya-developmenta-ili-investiczii-v-tehnologii/</loc>    <lastmod>2019-11-22T13:34:47Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/opyt-i-perspektivy-ispolzovaniya-gejmifikaczii-v-sankt-peterburgskom-politehnicheskom-universitete-petra-velikogo/</loc>    <lastmod>2019-11-27T09:46:46Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/17th-ieee-international-symposium-on-intelligent-systems-and-informatics/</loc>    <lastmod>2020-04-15T15:16:22Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/obrazovatelnyj-modul-po-programme-emba-dlya-rukovoditelej-pao-yunipro/</loc>    <lastmod>2019-11-22T13:39:21Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/konferencziya-smart-trends-in-systems-security-and-sustainability/</loc>    <lastmod>2019-11-22T13:40:51Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/politehnaneve/</loc>    <lastmod>2019-11-22T13:43:36Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/kruglyj-stol-po-czifrovym-tehnologiyam-v-zhkh/</loc>    <lastmod>2019-11-22T13:46:18Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/kvest-oblachnaya-igra-predstavlen-na-konferenczii-dtgs-2019/</loc>    <lastmod>2019-11-22T13:47:45Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/mihail-uspenskij-rasskazal-o-razrabotke-algoritma-prinyatiya-resheniya-po-predotvrashheniyu-sboev-shd-na-konferenczii-kiberfizicheskie-sistemy-i-upravlenie/</loc>    <lastmod>2019-11-22T13:50:06Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/predstaviteli-laboratorii-obsudili-sotrudnichestvo-s-klasterom-kreonomika-i-konczernom-r-pro/</loc>    <lastmod>2019-11-22T13:52:48Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/intervyu-na-internet-televidenii-gorod/</loc>    <lastmod>2019-11-22T13:55:38Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/rabochee-soveshhanie-s-predstavitelyami-ministerstva-energetiki-rf-i-energeticheskih-kompanij-rf/</loc>    <lastmod>2019-11-22T14:00:56Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/delovoj-vizit-na-proizvodstvo-firmy-biocad-v-strelne/</loc>    <lastmod>2019-11-22T14:05:55Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/vvod-v-ekspluatacziyu-sovmestnoj-razrabotki-skat-pp-avtomaticheskogo-kompleksa-fotovideofiksaczii-narushenij-na-nereguliruemyh-peshehodnyh-perehodah/</loc>    <lastmod>2019-11-22T14:16:10Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/rabochee-soveshhanie-po-voprosam-czifrovoj-transformaczii-vodokanala-sankt-peterburga/</loc>    <lastmod>2019-11-22T14:19:43Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/vizit-gostej-turinskogo-politehnicheskogo-universiteta/</loc>    <lastmod>2019-11-22T14:27:54Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/razrabotka-intellektualnoj-infrastruktury-invest-otelya-in2it-gk-plaza-lotus-group/</loc>    <lastmod>2019-11-22T14:37:54Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/ii-rossijskij-kongress-fizicheskaya-i-reabilitaczionnaya-mediczina/</loc>    <lastmod>2020-02-13T14:54:51Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/xlvii-nedelya-nauki-spbpu/</loc>    <lastmod>2019-11-22T14:50:57Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/rossiya-yaponiya-transfer-tehnologij/</loc>    <lastmod>2019-11-22T15:00:49Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/uchastie-v-vii-moskovskom-mezhdunarodnom-forume-innovaczionnogo-razvitiya-otkrytye-innovaczii-2018/</loc>    <lastmod>2019-10-30T12:18:10Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/vstrecha-s-delegacziej-paranskogo-federalnogo-tehnologicheskogo-universiteta/</loc>    <lastmod>2019-09-27T09:43:41Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/uchastie-v-vystavke-avtomatizacziya-2018-21-sentyabrya-2018-488/</loc>    <lastmod>2019-09-27T09:51:44Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/proekt-forsajt-flota-2018-lima-byl-predstavlen-gubernatoru-sankt-peterburga/</loc>    <lastmod>2020-03-27T14:00:31Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/pobeda-na-konkurse-proektov-v-ramkah-mnogostoronnej-nauchno-issledovatelskoj-inicziativy-briks/</loc>    <lastmod>2019-10-26T12:13:29Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/torzhestvennyj-zapusk-sistemy-sovremennaya-pishhevaya-bezopasnost/</loc>    <lastmod>2019-10-30T12:21:15Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/uspeh-podopechnoj-komandy-nashej-laboratorii-v-konkurse-studencheskih-proektov-spbpu/</loc>    <lastmod>2019-09-27T09:43:56Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/forsajt-flot-2018-strategii-ekonomicheskogo-i-soczialnogo-razvitiya-sankt-peterburga-na-period-do-2035/</loc>    <lastmod>2019-09-27T09:44:00Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/rektorskij-vizit-v-gracz/</loc>    <lastmod>2019-10-30T12:29:14Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/vizit-mezhdunarodnoj-delegaczii-iz-indii-i-kitaya/</loc>    <lastmod>2019-09-27T09:44:08Z</lastmod>  </url>
-  <url>    <loc>https://dev.spbpu.com/news/torzhestvennoe-podpisanie-chetyryohstoronnego-soglasheniya-o-sotrudnichestve-po-protivodejstviyu-falsifikaczii-molochnoj-produkczii-v-pravitelstve-sankt-peterburga/</loc>    <lastmod>2019-09-27T09:44:12Z</lastmod>  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/g-vasilyanov-provel-zanyatie-po-postroeniyu-sistem-upravleniya-avtonomnym-transportom-v-ramkah-intensiva-inzhenernaya-liga/</loc>
+    <lastmod>2021-01-14T11:15:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/v-osennem-semestre-2020-goda-kurs-operaczionnye-sistemy-realnogo-vremeni-dlya-studentov-iknt-spbpu-provedut-sotrudniki-laboratorii-pspod/</loc>
+    <lastmod>2020-11-05T14:53:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/nikolaj-abramov-i-yaroslav-hutornoj-rasskazali-o-svoih-razrabotkah-na-huawei-spbpu-open-day-2020/</loc>
+    <lastmod>2020-11-02T09:18:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/na-konferenczii-iefb-ran-predstavlena-tehnologiya-analiza-patternov-mozgovoj-aktivnosti-laboratornyh-myshej-dlya-issledovanij-v-oblasti-nejrodegenerativnyh-zabolevanij/</loc>
+    <lastmod>2020-11-05T11:48:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/v-czentre-nti-spbpu-proshla-rabochaya-sessiya-s-rukovoditelyami-developera-brusnika-po-razrabotke-metodiki-i-po-dlya-avtomatizaczii-proektirovaniya-zhilyh-mnogokvartirnyh-domov/</loc>
+    <lastmod>2020-11-05T11:48:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/a-i-borovkov-i-m-v-bolsunovskaya-vystupili-pered-slushatelyami-programmy-ranhigs-advanced-management/</loc>
+    <lastmod>2020-11-02T12:19:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/sotrudniki-laboratorii-pspod-prinyali-uchastie-v-mezhdunarodnom-forume-dni-virusologii-virology-days-2020/</loc>
+    <lastmod>2020-11-02T12:41:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/sotrudniki-laboratorii-pspod-czentra-nti-spbpu-proshli-v-final-konkursa-tematicheskih-obrazovatelnyh-programm-arteka-na-2021-god/</loc>
+    <lastmod>2020-11-05T14:37:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/speczialisty-laboratorii-pspod-prinimayut-uchastie-v-razrabotke-onlajn-kursov-spbpu-po-formirovaniyu-czifrovyh-kompetenczij-inzhenernyh-kadrov/</loc>
+    <lastmod>2020-09-21T14:50:59Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/razrabotki-laboratorii-dlya-stroitelnoj-otrasli-predstavleny-na-interstrojekspo-2020/</loc>
+    <lastmod>2020-09-14T12:22:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/kibernetika-kak-supersila-intervyu-s-m-v-bolsunovskoj/</loc>
+    <lastmod>2020-09-07T09:16:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/rosatom-ekonomfak-mgu-spbpu-i-buildingsmart-naiks-dogovorilis-o-sotrudnichestve-v-oblasti-podgotovki-inzhenernyh-kadrov-dlya-czifrovoj-ekonomiki/</loc>
+    <lastmod>2020-09-07T10:23:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/menedzher-proektov-laboratorii-pspod-aleksej-ginczyak-voshel-v-sostav-soveta-molodyh-uchenyh-spbpu/</loc>
+    <lastmod>2020-08-07T13:06:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/slushateli-letnej-shkoly-spbpu-izuchili-primenenie-sistem-ii-na-primere-modeli-bespilotnogo-avtomobilya/</loc>
+    <lastmod>2020-07-22T14:22:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/sotrudniki-laboratorii-pspod-prinyali-uchastie-v-sovmestnom-vorkshope-spbpu-i-universiteta-aahena-smart-robotics-in-production/</loc>
+    <lastmod>2020-06-25T09:45:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/sistema-besprovodnyh-infrakrasnyh-datchikov-dlya-dolgovremennogo-monitoringa-konczentraczii-gazov/</loc>
+    <lastmod>2020-06-25T09:42:33Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/proekt-po-razrabotke-sistemy-datchikov-monitoringa-gazov-predstavlen-na-konferenczii-ipmeit-spbpu/</loc>
+    <lastmod>2020-06-17T10:23:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/mobilnoe-prilozhenie-dlya-seti-invest-otelej-na-osnove-tehnologii-flutter/</loc>
+    <lastmod>2020-06-11T15:29:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/proekt-po-sozdaniyu-golosovogo-pomoshhnika-dlya-paczientov-pni-predstavlen-na-konferenczii-sesekmi-2020/</loc>
+    <lastmod>2020-05-25T10:30:15Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/the-issdp-laboratory-of-the-nti-spbpu-center-is-completing-the-2nd-stage-of-the-development-of-a-small-sized-training-and-demonstration-model-of-an-unmanned-vehicle/</loc>
+    <lastmod>2020-05-14T18:20:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/laboratoriya-pspod-czentra-nti-spbpu-zavershaet-2-etap-razrabotki-malogabaritnoj-uchebno-demonstraczionnoj-modeli-bespilotnogo-avtomobilya/</loc>
+    <lastmod>2020-05-08T18:42:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/laboratoriya-pspod-czentra-nti-spbpu-predstavila-svoi-razrabotki-na-mmso-2020/</loc>
+    <lastmod>2020-11-06T12:13:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/rol-czifrovyh-dvojnikov-v-realizaczii-proekta-czifrovoj-ob-irtyshskij-bassejn-obsudili-na-soveshhanii-s-rukovodstvom-rosgidrometa/</loc>
+    <lastmod>2020-05-07T13:34:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/laboratoriya-promyshlennye-sistemy-potokovoj-obrabotki-dannyh-pspod-czentra-nti-spbpu-primet-uchastie-v-mmso-2020/</loc>
+    <lastmod>2020-05-07T13:34:32Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/onlajn-vstrecha-s-predstavitelyami-rwth-aachen-university/</loc>
+    <lastmod>2020-04-17T13:56:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/v-ramkah-programmy-norma-zhizni-uchastniki-iz-sankt-peterburga-predstavili-proekty-po-vnedreniyu-innovaczionnyh-praktik-v-rabotu-soczialnyh-i-mediczinskih-organizaczij/</loc>
+    <lastmod>2020-03-25T13:24:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/ministerstvo-inostrannyh-del-rossijskoj-federaczii-podderzhalo-inicziativu-czentra-nti-spbpu-po-razvitiyu-sotrudnichestva-so-stranami-afriki/</loc>
+    <lastmod>2020-03-25T09:33:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/sotrudniki-laboratorii-pspod-predstavili-konczepcziyu-ispolzovaniya-it-tehnologij-v-reabilitaczionnyh-programmah-psihonevrologicheskih-internatov/</loc>
+    <lastmod>2020-03-25T09:55:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/russian-finnish-industry-4-0-educational-project-supported-by-a-cross-border-cooperation-program/</loc>
+    <lastmod>2020-02-25T11:37:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/rossijsko-finskij-obrazovatelnyj-proekt-v-sfere-industrii-4-0-podderzhan-programmoj-prigranichnogo-sotrudnichestva/</loc>
+    <lastmod>2020-07-17T16:02:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/m-v-bolsunovskaya-vystupila-na-xvi-baltijskom-nauchno-inzhenernom-konkurse-s-lekcziej-o-razrabotke-sistem-iskusstvennogo-intellekta/</loc>
+    <lastmod>2020-02-11T12:49:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/uchenye-spbpu-razrabotali-otkrytuyu-platformu-dlya-sozdaniya-nejrotrenazherov-i-nejrointerfejsov/</loc>
+    <lastmod>2020-09-29T13:55:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/an-open-platform-for-creating-neurotracers-and-neural-interfaces/</loc>
+    <lastmod>2020-02-13T11:54:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/gid-po-novym-professiyam-czifrovogo-mira/</loc>
+    <lastmod>2020-02-05T11:06:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/v-komande-laboratorii-pspod-eshhe-dva-pobeditelya-programmy-umnik-pozdravlyaem-kolleg/</loc>
+    <lastmod>2020-02-05T11:22:19Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/the-issdp-laboratory-team-has-in-its-staff-two-more-winners-of-the-umnik-program-congratulations-to-our-colleagues/</loc>
+    <lastmod>2020-02-05T11:27:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/international-conference-on-information-science-and-applications-2019-icisa-2019/</loc>
+    <lastmod>2020-01-13T11:23:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/international-conference-on-information-science-and-applications-2019-icisa-2019-2/</loc>
+    <lastmod>2020-02-04T09:49:45Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/proekt-laboratorii-pspod-predstavlen-na-vystavke-v-ramkah-foruma-globalnoe-tehnologicheskoe-liderstvo-2019/</loc>
+    <lastmod>2020-01-13T11:24:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/the-issdp-laboratory-project-was-presented-at-the-exhibition-as-part-of-the-global-technology-leadership-forum-2019/</loc>
+    <lastmod>2020-02-04T10:02:15Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/proekt-czifrovoj-ob-irtyshskij-bassejn-poluchil-vysokuyu-oczenku-ot-ekspertov-federalnogo-urovnya-na-forume-globalnoe-tehnologicheskoe-liderstvo/</loc>
+    <lastmod>2019-12-28T12:14:02Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/the-digital-ob-irtysh-basin-project-received-a-high-appraisal-of-federal-experts-at-the-global-technology-leadership-forum/</loc>
+    <lastmod>2020-02-04T10:56:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/sotrudniki-czentra-nti-spbpu-i-vshtp-ippt-rasskazali-o-proekte-oblachnyj-kvest-dlya-pervokursnikov-na-konferenczii-secr-2019/</loc>
+    <lastmod>2019-12-06T14:45:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/pozdravlyaem-pobeditelya-konkursa-umnik-sberbank-arseniya-zorina-3/</loc>
+    <lastmod>2020-01-13T11:22:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/congratulations-to-the-winner-of-the-umnik-sberbank-contest-arseny-zorin/</loc>
+    <lastmod>2020-02-06T10:58:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/laboratoriya-pspod-vklyuchena-v-proekt-po-sozdaniyu-czifrovoj-platformy-i-vnedreniyu-peredovyh-tehnologij-na-ao-pticzefabrika-roskar/</loc>
+    <lastmod>2019-12-25T13:35:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/the-issdp-laboratory-is-included-in-the-project-on-creating-a-digital-platform-and-introduction-of-advanced-technologies-at-the-roskar-poultry-factory/</loc>
+    <lastmod>2020-02-04T10:08:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/marina-bolsunovskaya-na-radio-eho-moskvy-o-lazernom-skanirovanii-i-czifrovyh-dvojnikah/</loc>
+    <lastmod>2019-11-22T15:53:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/czentr-nti-spbpu-i-gup-lenoblinventarizacziya-podpisali-soglashenie-o-sotrudnichestve-po-voprosam-razvitiya-czifrovoj-transformaczii-i-novyh-proizvodstvennyh-tehnologij/</loc>
+    <lastmod>2019-11-22T13:32:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/speczialisty-czentra-nti-spbpu-prinyali-uchastie-v-ekonomicheskom-forume-rossiya-afrika/</loc>
+    <lastmod>2020-02-10T10:47:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/laboratory-specialists-took-part-in-the-russia-africa-economic-forum/</loc>
+    <lastmod>2020-02-04T09:42:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/ii-sammit-dlya-molodyh-uchenyh-i-inzhenerov-bolshie-vyzovy-dlya-obshhestva-gosudarstva-i-nauki/</loc>
+    <lastmod>2019-11-22T16:12:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/en/news/the-joint-projects-of-the-pspod-laboratory-and-plaza-lotus-group-were-presented-at-the-meeting-it-solutions-for-development-or-technology-investments/</loc>
+    <lastmod>2020-01-28T14:01:32Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/sovmestnye-proekty-laboratorii-pspod-i-plaza-lotus-group-predstavleny-na-vstreche-it-resheniya-dlya-developmenta-ili-investiczii-v-tehnologii/</loc>
+    <lastmod>2019-11-22T13:34:47Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/opyt-i-perspektivy-ispolzovaniya-gejmifikaczii-v-sankt-peterburgskom-politehnicheskom-universitete-petra-velikogo/</loc>
+    <lastmod>2019-11-27T09:46:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/17th-ieee-international-symposium-on-intelligent-systems-and-informatics/</loc>
+    <lastmod>2020-04-15T15:16:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/obrazovatelnyj-modul-po-programme-emba-dlya-rukovoditelej-pao-yunipro/</loc>
+    <lastmod>2019-11-22T13:39:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/konferencziya-smart-trends-in-systems-security-and-sustainability/</loc>
+    <lastmod>2019-11-22T13:40:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/politehnaneve/</loc>
+    <lastmod>2019-11-22T13:43:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/kruglyj-stol-po-czifrovym-tehnologiyam-v-zhkh/</loc>
+    <lastmod>2019-11-22T13:46:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/kvest-oblachnaya-igra-predstavlen-na-konferenczii-dtgs-2019/</loc>
+    <lastmod>2019-11-22T13:47:45Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/mihail-uspenskij-rasskazal-o-razrabotke-algoritma-prinyatiya-resheniya-po-predotvrashheniyu-sboev-shd-na-konferenczii-kiberfizicheskie-sistemy-i-upravlenie/</loc>
+    <lastmod>2019-11-22T13:50:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/predstaviteli-laboratorii-obsudili-sotrudnichestvo-s-klasterom-kreonomika-i-konczernom-r-pro/</loc>
+    <lastmod>2019-11-22T13:52:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/intervyu-na-internet-televidenii-gorod/</loc>
+    <lastmod>2019-11-22T13:55:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/rabochee-soveshhanie-s-predstavitelyami-ministerstva-energetiki-rf-i-energeticheskih-kompanij-rf/</loc>
+    <lastmod>2019-11-22T14:00:56Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/delovoj-vizit-na-proizvodstvo-firmy-biocad-v-strelne/</loc>
+    <lastmod>2019-11-22T14:05:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/vvod-v-ekspluatacziyu-sovmestnoj-razrabotki-skat-pp-avtomaticheskogo-kompleksa-fotovideofiksaczii-narushenij-na-nereguliruemyh-peshehodnyh-perehodah/</loc>
+    <lastmod>2019-11-22T14:16:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/rabochee-soveshhanie-po-voprosam-czifrovoj-transformaczii-vodokanala-sankt-peterburga/</loc>
+    <lastmod>2019-11-22T14:19:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/vizit-gostej-turinskogo-politehnicheskogo-universiteta/</loc>
+    <lastmod>2019-11-22T14:27:54Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/razrabotka-intellektualnoj-infrastruktury-invest-otelya-in2it-gk-plaza-lotus-group/</loc>
+    <lastmod>2019-11-22T14:37:54Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/ii-rossijskij-kongress-fizicheskaya-i-reabilitaczionnaya-mediczina/</loc>
+    <lastmod>2020-02-13T14:54:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/xlvii-nedelya-nauki-spbpu/</loc>
+    <lastmod>2019-11-22T14:50:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/rossiya-yaponiya-transfer-tehnologij/</loc>
+    <lastmod>2019-11-22T15:00:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/uchastie-v-vii-moskovskom-mezhdunarodnom-forume-innovaczionnogo-razvitiya-otkrytye-innovaczii-2018/</loc>
+    <lastmod>2019-10-30T12:18:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/vstrecha-s-delegacziej-paranskogo-federalnogo-tehnologicheskogo-universiteta/</loc>
+    <lastmod>2019-09-27T09:43:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/uchastie-v-vystavke-avtomatizacziya-2018-21-sentyabrya-2018-488/</loc>
+    <lastmod>2019-09-27T09:51:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/proekt-forsajt-flota-2018-lima-byl-predstavlen-gubernatoru-sankt-peterburga/</loc>
+    <lastmod>2020-03-27T14:00:31Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/pobeda-na-konkurse-proektov-v-ramkah-mnogostoronnej-nauchno-issledovatelskoj-inicziativy-briks/</loc>
+    <lastmod>2019-10-26T12:13:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/torzhestvennyj-zapusk-sistemy-sovremennaya-pishhevaya-bezopasnost/</loc>
+    <lastmod>2019-10-30T12:21:15Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/uspeh-podopechnoj-komandy-nashej-laboratorii-v-konkurse-studencheskih-proektov-spbpu/</loc>
+    <lastmod>2019-09-27T09:43:56Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/forsajt-flot-2018-strategii-ekonomicheskogo-i-soczialnogo-razvitiya-sankt-peterburga-na-period-do-2035/</loc>
+    <lastmod>2019-09-27T09:44:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/rektorskij-vizit-v-gracz/</loc>
+    <lastmod>2019-10-30T12:29:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/vizit-mezhdunarodnoj-delegaczii-iz-indii-i-kitaya/</loc>
+    <lastmod>2019-09-27T09:44:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.spbpu.com/news/torzhestvennoe-podpisanie-chetyryohstoronnego-soglasheniya-o-sotrudnichestve-po-protivodejstviyu-falsifikaczii-molochnoj-produkczii-v-pravitelstve-sankt-peterburga/</loc>
+    <lastmod>2019-09-27T09:44:12Z</lastmod>
+  </url>
